@@ -5,6 +5,11 @@
 
 <br>
 <br>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=danihefarias&theme=github-dark-blue&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+
+</div>
 
 <img width=100% bottom=50px src="https://github-readme-activity-graph.vercel.app/graph?username=danihefarias&bg_color=000000&color=00b3ff&line=ffffff&point=00b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
