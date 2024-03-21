@@ -12,12 +12,10 @@
 
 </div>
 
-<br>
-<br>
 
 <div align="center"> 
-<a href="https://instagram.com/danihefarias" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<a href="https://instagram.com/danihefarias">
+<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
 
@@ -33,6 +31,8 @@
 
 </div>
 
+<br>
+<br>
 
 <img width=100% bottom=50px src="https://github-readme-activity-graph.vercel.app/graph?username=danihefarias&bg_color=000000&color=00b3ff&line=ffffff&point=00b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
